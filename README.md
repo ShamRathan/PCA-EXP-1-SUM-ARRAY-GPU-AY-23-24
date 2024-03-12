@@ -33,8 +33,6 @@ Google Colab with NVCC Compiler
 
 ```
 ## OUTPUT:
-![image](https://github.com/Aswini-J/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/93587823/0e4bfed8-f573-419b-9690-b118ccd931de)
-
 
 ## RESULT:
 Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
